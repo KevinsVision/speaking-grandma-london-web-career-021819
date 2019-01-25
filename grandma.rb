@@ -22,6 +22,6 @@
       elsif phrase == phrase.upcase
       return "NO, NOT SINCE 1938!"
     else
-      return "I LOVE YOU TOO PUMPKIN!"
+      return "HUH?! SPEAK UP, SONNY!"
     end
   end
