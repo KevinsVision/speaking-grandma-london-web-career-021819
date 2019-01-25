@@ -21,4 +21,6 @@
       return "HUH?! SPEAK UP, SONNY!"
       elsif phrase == "WHAT DID YOU EAT TODAY?"
       return "NO, NOT SINCE 1938!"
-      elsif 
+      elsif phrase == "WHAT?"
+      return "NO, NOT SINCE 1938!"
+    end
