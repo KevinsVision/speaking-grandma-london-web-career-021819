@@ -19,5 +19,6 @@
       return "HUH?! SPEAK UP, SONNY!"
       elsif phrase == "Hi!"
       return "HUH?! SPEAK UP, SONNY!"
-      elsif phrase == "NO, NOT SINCE 1938!"
-      return ""
+      elsif phrase == "WHAT DID YOU EAT TODAY?"
+      return "NO, NOT SINCE 1938!"
+      elsif 
