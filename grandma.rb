@@ -21,7 +21,7 @@
       return "HUH?! SPEAK UP, SONNY!"
       elsif phrase == phrase.upcase
       return "NO, NOT SINCE 1938!"
-      elsif phrase == "WHAT?"
+      elsif phrase == 
       return "NO, NOT SINCE 1938!"
     end
   end
